@@ -15,7 +15,7 @@ http://www.tightvnc.com/
 If you start app without config file, a default config will be created.
 I write in config file Windows credentials and SQL credentials, to help me to administrate computers.
 
-Feel free to use this software in source code or binary form for any kind of purposes, both personal and commercial use.
+Feel free to use this software in source code or binary form for any kind of purpose, including both personal and commercial use.
 
 The source must be compiled under SharpDevelop:
 http://www.icsharpcode.net/OpenSource/SD/Default.aspx
