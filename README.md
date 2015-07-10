@@ -19,3 +19,6 @@ Feel free to use this software in source code or binary form for any kind of pur
 
 The source must be compiled under SharpDevelop:
 http://www.icsharpcode.net/OpenSource/SD/Default.aspx
+
+A picture of application is at http://rainbowheart.ro/410
+
