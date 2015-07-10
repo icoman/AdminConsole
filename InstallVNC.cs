@@ -37,15 +37,15 @@ namespace AdminConsole
 		void log(string s)
 		{
 			//Environment.NewLine = \r\n in windows si = \n in Unix
-			this.textBox2.Text += (s+Environment.NewLine);
+			this.textBox2.Text += (s + Environment.NewLine);
 		}
 		void Button1Click(object sender, EventArgs e)
 		{
 			string numepc = this.textBox1.Text;
 			//string s;
 			numepc = "epowxp1gdf15j";
-			log("Atentie, dureaza ...");
-			log("Nu merge");
+			log("Warning, need time ...");
+			log("Not working");
 
 			/*
 			s = "NET USE \\\\"+numepc+"\\IPC$";
